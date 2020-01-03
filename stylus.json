@@ -2,7 +2,7 @@
 	{
 		"updateUrl": "https://stylishthemes.github.io/GitHub-Dark/github-dark.user.css",
 		"bg-choice": {
-			"label": "Background"
+			"label": "Background",
 			"value": "crosshatch"
 		},
 		"bg-custom": {
