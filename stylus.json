@@ -1,0 +1,129 @@
+[
+	{
+		"updateUrl": "https://stylishthemes.github.io/GitHub-Dark/github-dark.user.css",
+		"bg-choice": {
+			"label": "Background"
+			"value": "crosshatch"
+		},
+		"bg-custom": {
+			"name": "bg-custom",
+			"value": null
+		},
+		"bg-options": {
+			"name": "bg-options",
+			"value": "Tiled"
+		},
+		"bg-attachment": {
+			"name": "bg-attachment",
+			"value": null
+		},
+		"tab-size": {
+			"name": "tab-size",
+			"value": "4"
+		},
+		"font-choice": {
+			"name": "font-choice",
+			"value": null
+		},
+		"font-size-choice": {
+			"name": "font-size-choice",
+			"value": null
+		},
+		"code-wrap": {
+			"name": "code-wrap",
+			"value": null
+		}
+	},
+	{
+		"updateUrl": "https://raw.githubusercontent.com/overdodactyl/Stylus-Dark/master/stylus-dark.user.css"
+	},
+	{
+		"updateUrl": "https://raw.githubusercontent.com/StylishThemes/StackOverflow-Dark/master/stackoverflow-dark.user.css",
+		"img-opacity": {
+			"name": "img-opacity",
+			"value": null
+		}
+	},
+	{
+		"updateUrl": "https://gitlab.com/RaitaroH/DuckDuckGo-DeepDark/raw/master/DuckDuckGoDeepDark.user.css",
+		"mainColor": {
+			"name": "mainColor",
+			"value": null
+		},
+		"mainBackground": {
+			"name": "mainBackground",
+			"value": null
+		},
+		"secondBackground": {
+			"name": "secondBackground",
+			"value": null
+		},
+		"hoverBackground": {
+			"name": "hoverBackground",
+			"value": null
+		},
+		"mainText": {
+			"name": "mainText",
+			"value": null
+		},
+		"dimmerText": {
+			"name": "dimmerText",
+			"value": null
+		},
+		"colorShadow": {
+			"name": "colorShadow",
+			"value": null
+		}
+	},
+	{
+		"updateUrl": "https://raw.githubusercontent.com/StylishThemes/Wikipedia-Dark/master/wikipedia-dark.user.css",
+		"bg-custom": {
+			"name": "bg-custom",
+			"value": null
+		},
+		"bg-options": {
+			"name": "bg-options",
+			"value": null
+		},
+		"bg-attachment": {
+			"name": "bg-attachment",
+			"value": null
+		}
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1569434262138,
+		"sourceCode": "/* ==UserStyle==\n@name           about: Dark\n@namespace      github.com/molikuner/dark-about\n@version        1.0.0\n@description    Change the background of the about pages\n@author         molikuner\n==/UserStyle== */\n@-moz-document regexp(\"^about:.*$\") {\n    html {\n        background: #38383d!important;\n        color: #b1b1b3!important\n    }\n}",
+		"sections": [
+			{
+				"code": "html {\n        background: #38383d!important;\n        color: #b1b1b3!important\n    }",
+				"start": 38,
+				"regexps": [
+					"^about:.*$"
+				]
+			}
+		],
+		"usercssData": {
+			"name": "about: Dark",
+			"namespace": "github.com/molikuner/dark-about/ //todo ins't realy here",
+			"version": "1.0.0",
+			"description": "Change the background of the about pages",
+			"author": "molikuner"
+		},
+		"author": "molikuner",
+		"description": "Change the background of the about pages",
+		"name": "about: Dark",
+		"updateDate": 1569436094627,
+		"id": 6
+	},
+	{
+		"updateUrl": "https://userstyles.org/styles/chrome/143026.json?ik-color1=%23000000&ik-color2=%23404040&ik-color3=%23666666&ik-color4=%23000000&ik-color5=%23000000"
+	},
+	{
+		"updateUrl": "https://github.com/thiagobraga/gmail-userstyles/raw/master/theme.user.css"
+	}
+]
